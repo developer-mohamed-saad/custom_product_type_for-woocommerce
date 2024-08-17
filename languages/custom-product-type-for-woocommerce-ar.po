@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Product Type for WooCommerce Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-12 09:45+0000\n"
+"PO-Revision-Date: 2021-03-12 09:46+0000\n"
+"Last-Translator: saad <arabianmido@gmail.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.5.1"
+
+#: custom-woocommerce-product-type.php:783
+msgid "Custom WC Product Type Settings"
+msgstr ""
+"إعدادات نوع المنتج المخصص\n"
+
+#: custom-woocommerce-product-type.php:794
+msgid "Singular name"
+msgstr "الاسم المفرد"
+
+#: custom-woocommerce-product-type.php:796
+msgid "Product Type Singular Name"
+msgstr ""
+"نوع المنتج الاسم المفرد\n"
+
+#: custom-woocommerce-product-type.php:797
+msgid "EX:('Book','Shirt','Demo',…)"
+msgstr "مثال:(\"كتاب\", \"قميص\",\"مكون اضافي\")"
+
+#: custom-woocommerce-product-type.php:801
+msgid "Plural name"
+msgstr ""
+"اسم الجمع\n"
+
+#: custom-woocommerce-product-type.php:803
+msgid "Product Type Plural Name"
+msgstr ""
+"نوع المنتج اسم الجمع\n"
+
+#: custom-woocommerce-product-type.php:804
+msgid "EX:('Books','Shirts','Demos',…)"
+msgstr "مثال:(\"كتاب\", \"قميص\",\"مكون اضافي\")"
+
+#: custom-woocommerce-product-type.php:808
+msgid "Custom Taxonomy"
+msgstr ""
+"التصنيف المخصص\n"
+
+#: custom-woocommerce-product-type.php:810
+msgid "(Enable/Disable) Custom Taxonomy"
+msgstr ""
+"(تمكين / تعطيل) التصنيف المخصص\n"
+
+#: custom-woocommerce-product-type.php:812
+#: custom-woocommerce-product-type.php:840
+#: custom-woocommerce-product-type.php:876
+msgid "Enabled"
+msgstr "ممكن"
+
+#: custom-woocommerce-product-type.php:813
+#: custom-woocommerce-product-type.php:841
+#: custom-woocommerce-product-type.php:877
+msgid "Disabled"
+msgstr "معطل"
+
+#: custom-woocommerce-product-type.php:819
+msgid "Display In Shop"
+msgstr "عرض في المتجر"
+
+#: custom-woocommerce-product-type.php:821
+msgid "(Show/Hide) From Shop Page"
+msgstr ""
+"(إظهار / إخفاء) من صفحة المتجر\n"
+
+#: custom-woocommerce-product-type.php:823
+msgid "Show"
+msgstr "اظهار"
+
+#: custom-woocommerce-product-type.php:824
+msgid "Hide"
+msgstr "اخفاء"
+
+#: custom-woocommerce-product-type.php:836
+msgid "Enable Badge"
+msgstr "تمكين الشارة"
+
+#: custom-woocommerce-product-type.php:838
+msgid "Enable Product Badge"
+msgstr ""
+"تمكين شارة المنتج\n"
+
+#: custom-woocommerce-product-type.php:848
+#: custom-woocommerce-product-type.php:850
+#: custom-woocommerce-product-type.php:851
+msgid "Badge Text"
+msgstr ""
+"نص الشارة\n"
+
+#: custom-woocommerce-product-type.php:856
+msgid "Badge Background Color"
+msgstr "لون خلفية الشارة"
+
+#: custom-woocommerce-product-type.php:858
+msgid "Choose Badge Background Color"
+msgstr ""
+"اختر لون خلفية الشارة\n"
+
+#: custom-woocommerce-product-type.php:864
+msgid "Badge Text Color "
+msgstr ""
+"لون نص الشارة\n"
+
+#: custom-woocommerce-product-type.php:866
+msgid "Choose Badge Text Color"
+msgstr ""
+"اختر لون نص الشارة\n"
+
+#: custom-woocommerce-product-type.php:872
+msgid "Enable Custom Tab"
+msgstr ""
+"تمكين علامة التبويب المخصصة\n"
+
+#: custom-woocommerce-product-type.php:874
+msgid "Enable Product Custom Tab"
+msgstr ""
+"تمكين علامة تبويب المنتج المخصصة\n"
+
+#: custom-woocommerce-product-type.php:884
+#: custom-woocommerce-product-type.php:886
+msgid "Custom Tab Label"
+msgstr ""
+"تسمية علامة تبويب مخصصة\n"
+
+#: custom-woocommerce-product-type.php:887
+msgid "Custom Tab Label Text"
+msgstr ""
+"نص تسمية علامة التبويب المخصصة\n"
+
+#: custom-woocommerce-product-type.php:892
+msgid "Custom Tab Text Fields"
+msgstr ""
+"حقول نص علامة التبويب المخصصة\n"
+
+#: includes/cwpt_admin.php:13
+msgid "Custom Product Types Settings"
+msgstr ""
+"إعدادات أنواع المنتجات المخصصة\n"
+
+#: includes/cwpt_admin.php:21
+msgid "Custom Product Types Generated Successfully"
+msgstr "تم إنشاء أنواع المنتجات المخصصة بنجاح"
+
+#: includes/cwpt_admin.php:23
+msgid "No Custom Product Types Found"
+msgstr "لم يتم العثور على أنواع منتجات مخصصة"
+
+#: includes/cwpt_admin.php:25
+msgid "Custom Product Types Generated Failed"
+msgstr "فشل إنشاء أنواع المنتجات المخصصة"
+
+#: includes/cwpt_functions.php:5 includes/cwpt_functions.php:20
+msgid "Product Types"
+msgstr "انواع المنتجات"
+
+#: includes/cwpt_functions.php:7
+msgid " Product Types"
+msgstr ""
+"أنواع المنتجات\n"
+
+#: includes/cwpt_functions.php:8 includes/cwpt_functions.php:21
+msgid "Product Type"
+msgstr "نوع المنتج"
+
+#: includes/cwpt_functions.php:9
+msgid "Add Product Type"
+msgstr ""
+"أضف نوع منتج\n"
+
+#: includes/cwpt_functions.php:10
+msgid "Add new Product Type"
+msgstr ""
+"أضف نوع منتج جديد\n"
+
+#: includes/cwpt_functions.php:11
+msgid "New Product Type"
+msgstr ""
+"نوع منتج جديد\n"
+
+#: includes/cwpt_functions.php:12
+msgid "Edit Product Type"
+msgstr ""
+"تحرير نوع المنتج\n"
+
+#: includes/cwpt_functions.php:13 includes/cwpt_functions.php:14
+msgid "View Product Type"
+msgstr "عرض نوع المنتج"
+
+#: includes/cwpt_functions.php:15
+msgid "All Product Types"
+msgstr ""
+"جميع أنواع المنتجات\n"
+
+#: includes/cwpt_functions.php:16
+msgid "Search Product Types"
+msgstr "البحث في انواع المنتجات"
+
+#: includes/cwpt_functions.php:17
+msgid "Parent Product Type"
+msgstr ""
+"نوع المنتج الأب\n"
+
+#: includes/cwpt_functions.php:18
+msgid "No Product Types found"
+msgstr ""
+"لم يتم العثور على أنواع المنتجات\n"
+
+#: includes/cwpt_functions.php:19
+msgid "No Product Types found in Trash"
+msgstr ""
+"لم يتم العثور على أنواع المنتجات في المهملات\n"
+
+#. Name of the plugin
+msgid "Custom Product Type for WooCommerce Premium"
+msgstr "نوع المنتج المخصص لووكومرس"
+
+#. Description of the plugin
+msgid "This Plugin Add WooCommerce Custom Product types with awesome features."
+msgstr ""
+"يضيف هذا البرنامج المساعد أنواع منتجات ووكومرس المخصصة مع العديد من الميزات "
+"الرائعة.\n"
+
+#. URI of the plugin
+msgid ""
+"https://developermohamedsaad.wordpress.com/custom-woocommerce-product-type-"
+"wordpress-plugin/"
+msgstr ""
+"https://developermohamedsaad.wordpress.com/custom-woocommerce-product-type-"
+"wordpress-plugin/"
+
+#. Author of the plugin
+msgid "Mohamed Saad"
+msgstr "محمد سعد"
+
+#. Author URI of the plugin
+msgid "developermohamedsaad.wordpress.com"
+msgstr "developermohamedsaad.wordpress.com"

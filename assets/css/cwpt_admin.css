@@ -1,0 +1,17 @@
+.custom-tab-fields .rwmb-clone.rwmb-fieldset_text-clone {
+    background: whitesmoke;
+    padding: 1%;
+    border-radius: 20px;
+}
+.field-header.bg{
+    background: rgb(219, 228, 255)!important;
+}
+
+.cwpt-shortcode {
+    text-align: center;
+    background: #007cba;
+    color: #fff;
+    font-size: 18px;
+    padding: 1%;
+    border: 3px double #ffff;
+}
